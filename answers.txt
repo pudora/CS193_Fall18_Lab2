@@ -5,23 +5,23 @@
 # -----------------
 # Task 1 Answer
 # -----------------
-
+mv '/homes/pudora/cs193lab2/purdue classes/math/maa162' '/homes/pudora/cs193lab2/purdue classes/math/ma162'
 # -----------------
 # Task 2 Answer
 # -----------------
-
+rm '/homes/pudora/cs193lab2/purdue classes/math/pol341'
 # -----------------
 # Task 3 Answer
 # -----------------
-
+mv '/homes/pudora/cs193lab2/purdue classes/computer science/ma261' '/homes/pudora/cs193lab2/purdue classes/math/'
 # -----------------
 # Task 4 Answer
 # -----------------
-
+mkdir '/homes/pudora/cs193lab2/' 'purdue professors' / 'computer science professors'
 # -----------------
 # Task 5 Answer
 # -----------------
-
+mv '/homes/pudora/cs193lab2/purdue buildings/Professor Comer' '/homes/pudora/cs193lab2/purdue buildings/Professor Dunsmore' '/homes/pudora/cs193lab2/purdue professors/computer science professors'
 # -----------------
 # Task 6 Answer
 # ----------------
