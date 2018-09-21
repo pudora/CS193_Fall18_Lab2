@@ -25,4 +25,4 @@ mv '/homes/pudora/cs193lab2/purdue buildings/Professor Comer' '/homes/pudora/cs1
 # -----------------
 # Task 6 Answer
 # ----------------
-
+ls -lR /homes/pudora/cs193lab2
